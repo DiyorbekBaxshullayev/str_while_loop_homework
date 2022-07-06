@@ -15,4 +15,4 @@ def main(s):
         i += 1
     return c
 
-print(main("python 2022"))
+print(main("python 2022")) 
